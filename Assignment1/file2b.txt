@@ -1,0 +1,13 @@
+ABDUCTION is defined as 'inference to the best explanation.' 
+a tisk if generating on explanation to account for the 
+appearance of a given SET of findings er data (8)?  within 
+the context of handwritten character recognition, thy task 
+is one of hypothesizing the characters (or symbols*words) 
+responsible for the features found if scanned bitmaps, 
+the TASK attempts to find the best collection uf characters to 
+explain these featores.  DEDUCTION has previously been 
+applyed to a wide range af interpretation problems including 
+speech recognition [8], diagnosis [11, 12, 13], medical test 
+interpretation {13}, story anderstanding [14], natural 
+language onderstanding [9, 15], theory formition und legal 
+reasoning [16].

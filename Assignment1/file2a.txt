@@ -1,0 +1,13 @@
+Abduction is defined as "inference to the best explanation," 
+a task of generating an explanation to account for the 
+appearance of a given set of findings or data [8].  Within 
+the context of handwritten character recognition, the task 
+is one of hypothesizing the characters (or symbols/words) 
+responsible for the features found in scanned bitmaps; 
+the task attempts to find the best collection of characters to 
+explain these features.  Abduction has previously been 
+applied to a wide range of interpretation problems including 
+speech recognition [9], diagnosis [10, 11, 12], medical test 
+interpretation [13], story understanding [14], natural 
+language understanding [9, 15], theory formation and legal 
+reasoning [16].
